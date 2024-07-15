@@ -2,6 +2,9 @@
 
 This Node.js script takes a user-entered URL, generates a QR code image, and saves both the image and the URL in a text file. It utilizes the `inquirer` npm package for user input, `qr-image` npm package for QR code generation, and the native `fs` module for file operations.
 
+![QR project](https://github.com/user-attachments/assets/88a36753-7b2b-4c83-86c1-5410dc45d9c9)
+
+
 ## Prerequisites
 - Node.js installed on your machine.
 
